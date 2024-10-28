@@ -1,0 +1,12 @@
+ftfy 
+regex 
+tqdm
+evaluate
+sentence-transformers   
+datasets
+diffusers
+transformers[sentencepiece]
+nltk==3.2.4
+ipython
+torchvision==0.16.2
+numpy==1.26.2
