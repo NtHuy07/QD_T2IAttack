@@ -77,3 +77,4 @@ python run_ga_attack.py --ori_sent [original sentence] --tar_sent [target senten
 
 Our source code is built upon:
 - [RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts](https://github.com/WUSTL-CSPL/RIATIG) by Han Liu, Yuhao Wu, Shixuan Zhai, Bo Yuan, Ning Zhang
+- [OpenELM](https://github.com/CarperAI/OpenELM.git)
